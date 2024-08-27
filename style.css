@@ -22,7 +22,7 @@
 .outer-wrap{
     width: 100%;
     min-height: 100vh;
-    background-color: #0D479A;
+    background-color: #757575;
     padding: 30px;
 }
 
@@ -158,19 +158,24 @@
     border-radius: 5px;
     border: 0px;
     box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
-    font-size: 16px;
+    font-size: 12px;
+    margin-left: 4px;
 }
 
 .add button{
     background-color: #50B286;
     color: #FFFFFF;
-    font-size: 20px;
+    font-size: 14px;
     padding: 10px;
     border: 0px;
     border-radius: 5px;
     box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
     cursor: pointer;
-    margin-left: 4px;
+    margin-left: 8px;
+}
+
+.add button:hover{
+    background-color: #459e76;;
 }
 
 @media (max-width: 1080px){
