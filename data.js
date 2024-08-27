@@ -9,7 +9,7 @@ const data = [
     {
       "columnId":1,
       "tasks":[
-        {"taskId":38833,"content":"System Deesign Notes"}
+        {"taskId":38833,"content":"System Design Notes"}
       ]
     },
     {
